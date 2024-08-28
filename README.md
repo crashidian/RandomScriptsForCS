@@ -48,7 +48,7 @@ Key features:
 
 1. Clone this repository:
    ```
-   git clone https://github.com/crashidian/RandomScriptsForCS.git
+   git clone https://github.com/crashidian/RandomScriptsForWoolpertCS.git
    ```
 
 2. Install required packages:
